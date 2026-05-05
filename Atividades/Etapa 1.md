@@ -149,6 +149,10 @@ API com inteligência artificial para ajudar clientes a encontrar e acompanhar p
 Perfil analista, objetiva, clara, paciente e focada em resolver dúvidas sobre pedidos e entregas.
 </p>
 
+
+**Link Esqueleto simples projeto final**
+
+https://www.figma.com/design/eHKNfuyt93Qx2dzSXp401W/Rascunho-Projeto-final--esqueleto-simples-?node-id=0-1&t=ccAoZkbIVASLs2rC-1
 <h3 style="color:#2E8B57;">Limites</h3>
 <p>
 A IA não pode realizar cancelamentos, alterar endereço, modificar dados do pedido ou executar qualquer ação que envolva mudanças diretas no pedido. Nesses casos, deve encaminhar o cliente para um atendente humano.
